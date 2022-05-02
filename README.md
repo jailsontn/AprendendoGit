@@ -1,3 +1,3 @@
-Aprendendo GIT
+# Aprendendo GIT
 
-Meu primeiro projeto usando GIT
+## Meu primeiro projeto usando GIT
